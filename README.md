@@ -5,8 +5,8 @@
 </p>
 
 ## Profile
-- `Name` : Sung MyungGun (Hugo)
-- `Email` : personar95@naver.com
+- `Name` : Park Yu Bin
+- `Email` : dbqls3698@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
@@ -14,7 +14,7 @@
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
+  <a href="https://github.com/YB3698">
     <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
   </a>
