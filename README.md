@@ -55,7 +55,7 @@
 ## Project List
 - [Website] [Personal Portfolio site](https://yb3698.github.io/pyb_portfolio/)
 - [Project] [AI 기반 야구 통계 & 커뮤니티 플랫폼](https://github.com/YB3698/team5-baseball-project.git)
-- [Project] [W카페 키오스크 시스템](https://github.com/BSEom/miniP_kiosk.git)
+- [Project] [카페 키오스크 시스템](https://github.com/BSEom/miniP_kiosk.git)
 - [Spring Boot] [SpringBoot](https://github.com/YB3698/java-springboot-2025.git)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
