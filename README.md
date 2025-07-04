@@ -7,10 +7,6 @@
 ## Profile
 - `Name` : Park Yu Bin
 - `Email` : dbqls3698@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Languages : Python, Java, JavaScript, HTML5, CSS, SQL
-  - Framework : React, Spring Boot
-  - Tools : VS Code, DBeaver, Docker, GitHub, JupyterLab, Qt Designer
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
@@ -22,48 +18,30 @@
 </p>
 
 ## Using Languages
-<p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
-    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
-    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
-    <img height="40" src="https://img.icons8.com/?size=100&id=vgMoO3QkEnKf&format=png&color=000000" title="VisualBasic">
-    <img width="40" height="40" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo" title="Go">
-    <img height="40" src="https://img.icons8.com/?size=100&id=Lz7oiCpdanST&format=png&color=000000" title="Delphi">
-    <img height="40" src="https://img.icons8.com/?size=100&id=13460&format=png&color=000000" title="PHP">
-    <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server" title="SQL Server">
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
+
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java"/>
+  <img height="40" src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
+  <img height="40" src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
+  <img height="40" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img height="40" src="https://img.icons8.com/color/48/oracle-logo.png" title="Oracle (SQL)"/>
 </p>
 
-## Using Technics
-<p align='left'>
-  <img height="40" src="https://raw.githubusercontent.com/hugoMGSung/hugoMGSung/main/images/wpf.png" title="WPF"> 
-  <img height="40" src="https://cdn-icons-png.flaticon.com/256/7808/7808214.png" title="SmartFactory">  
-  <img height="40" src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo-thumbnail.png" title="ASP.NET Core">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
-  <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
-  <img height="40" src="https://img.icons8.com/?size=100&id=UeryvfCLUAc3&format=png&color=000000" title="ML/DL"> 
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
-  
-  <img height="40" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" title="OpenCV">
-  <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
-  <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
-  <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
-  <!-- 
-  <img height="40" src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" title="PyTorch">  
-  -->
+## Using Frameworks
+<p align="left">
+  <img height="40" src="https://img.icons8.com/officel/80/react.png" title="React"/>
+  <img height="40" src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
 </p>
 
 ## Using Tools
-<p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
-  <img height="40" src="https://img.icons8.com/?size=100&id=jUw5rFZE2a5d&format=png&color=000000" title="Jetbrains">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/android-studio--v3.png" alt="android-studio--v3" title="Android Studio">
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver"/>
+  <img height="40" src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img height="40" src="https://img.icons8.com/ios-glyphs/30/github.png" title="GitHub"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="JupyterLab"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" title="Qt Designer"/>
 </p>
 
 <!--
@@ -75,11 +53,9 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+- [Website] [Personal Portfolio site](https://yb3698.github.io/pyb_portfolio/)
+- [Project] [AI 기반 야구 통계 & 커뮤니티 플랫폼](https://github.com/YB3698/team5-baseball-project.git)
+- [Project] [W카페 키오스크 시스템](https://github.com/BSEom/miniP_kiosk.git)
+- [Spring Boot] [SpringBoot](https://github.com/YB3698/java-springboot-2025.git)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
