@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/YB3698">
-    <img src="[https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text&animation=scaleIn&fontAlignY=44)"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1E3A8A&text=Park%20Yu%20Bin&fontColor=FFFF99&animation=twinkling&fontAlignY=46&section=header&descAlignY=0"/>
   </a>
 </p>
 
