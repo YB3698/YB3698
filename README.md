@@ -18,14 +18,6 @@
 키엔스 VS 시리즈 기반 검사 셋업, PLC 통신 연동 경험이 있습니다.
 자세한 내용은 [포트폴리오](https://yb3698.github.io/pyb_portfolio/)에서 확인하실 수 있습니다.
 
-## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/YB3698">
-    <img src="https://github-readme-stats.vercel.app/api?username=YB3698&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YB3698&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
-
 ## Using Languages
 <p align="left">
   <img height="40" src="https://img.icons8.com/color/48/python.png" title="Python"/>
